@@ -111,7 +111,7 @@ void MENU :: MAIN_MENU(void)
         gotoxy(30,18) ;
         cout <<"ENTER YOUR CHOICE :" ;
         gotoxy(5,23);
-        cout<<"http://codewithc.com, Email : prameshpudasaini13@yahoo.com";
+        cout<<"https://github.com/Ganesh-H-S,Email:ganihs99@gmail.com";
 
 
         ch = getch() ;
@@ -1395,7 +1395,7 @@ void EMPLOYEE :: SALARY_SLIP(void)
     LINES L ;
     L.BOX(2,1,79,25,219) ;
     gotoxy(31,2) ;
-    cout <<"NADEEM AKHTAR, PGDBA - 200754667" ;
+    cout <<"GANESH H S Bengaluru-560076" ;
     L.LINE_HOR(3,78,3,196) ;
     gotoxy(34,4) ;
     cout <<"SALARY SLIP" ;
